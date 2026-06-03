@@ -14,14 +14,15 @@ Responsibilities:
 ---
 
 ## Backend
-
-FastAPI
+Django
+Django Rest framework
 
 Responsibilities:
 
 - Authentication
 - APIs
 - Business Logic
+- Resume Management
 - AI Integration
 
 ---

@@ -23,7 +23,9 @@ A platform that helps students and professionals:
 ### Backend
 
 - Python
-- FastAPI
+- Django
+- Django Rest Framework
+
 
 ### Database
 
